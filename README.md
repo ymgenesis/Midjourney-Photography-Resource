@@ -12,3 +12,4 @@ Future additions:
 - more film stock subjects/scenarios
 - more focal length subjects/scenarios
 - aperture and shutter speed tests
+- camera body tests
