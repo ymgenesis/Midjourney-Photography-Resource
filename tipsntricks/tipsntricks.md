@@ -8,3 +8,5 @@
 - Generally an ISO of 50-200 (ex: Cinestill 50) should produce less grainy images than say 200 and up. Grain is usually the same intensity (unless weighted) once you hit 200 and up.
 - Adding the company name ‘Fuji’ sometimes puts mount Fuji in the image
 - Be sure to use film stocks, focal lengths, apertures, and shutter speeds alongside other prompt language; these terms augment your prompts.
+
+[Main Menu](https://github.com/ymgenesis/Midjourney-Photography-Resource)
