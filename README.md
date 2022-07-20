@@ -5,6 +5,7 @@ An unofficial and non-exhaustive resource testing and comparing various photogra
 [Film Stocks](filmstocks/filmstocks.md)<br>
 [Focal Lengths](focallengths/focallengths.md)<br>
 [Aperture](aperture/aperture.md)<br>
+[Shutter Speed](shutterspeed/shutterspeed.md)
 [Weights & Phrasing](weightsnphrasing/weightsnphrasing.md)<br>
 [Tips & Tricks](tipsntricks/tipsntricks.md)<br>
 
@@ -14,5 +15,4 @@ Future additions:
 - more film stock subjects/scenarios
 - more focal length subjects/scenarios
 - more aperture subjects/scenarios
-- add shutter speed tests
 - add camera body tests
