@@ -7,7 +7,7 @@ Generally, a 35mm focal length produces the best results.
 <details><summary>Busy downtown street</summary>
 <p>
 
-`busy downtown street, [focal length] picture --uplight --aspect 3:2 --sameseed 1`  
+`busy downtown street, [focal length] picture --aspect 3:2 --sameseed 1`  
 
 **14mm**<br>
 ![14mm](/focallengths/images/busy_downtown_street_14mm.png)
@@ -48,7 +48,7 @@ Generally, a 35mm focal length produces the best results.
 <details><summary>Car on street</summary>
 <p>
 
-`car on street, [focal length] picture --uplight --aspect 3:2 --sameseed 1`  
+`car on street, [focal length] picture --aspect 3:2 --sameseed 1`  
 
 **14mm**<br>
 ![14mm](/focallengths/images/car_on_street_14mm.png)
