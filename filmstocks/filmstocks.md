@@ -1,7 +1,7 @@
 # Film Stocks
 In general, using any film stock tends to add lots of saturation, contrast, vignette, and grain. For a less-intense result, try a [weighted solution](/weightsnphrasing/weightsnphrasing.md). While certain popular film stocks may produce expected results, not all films act as expected in Midjourney, probably due to insufficient source material on the internet and/or in the dataset.
 
-`hooded figure cemetery, [film stock], --aspect 2:3 --sameseed 1`
+`hooded figure cemetery, [film stock] --aspect 2:3 --sameseed 1`
 
 <details><summary>Colour Film</summary>
 <p>
@@ -102,7 +102,7 @@ In general, using any film stock tends to add lots of saturation, contrast, vign
 </p>
 </details>
 
-`landscape, [film stock], --aspect 3:2 --sameseed 1`
+`landscape, [film stock] --aspect 3:2 --sameseed 1`
 
 <details><summary>Colour Film</summary>
 <p>
