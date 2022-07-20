@@ -13,5 +13,6 @@ An unofficial and non-exhaustive resource testing and comparing various photogra
 Future additions:
 - more film stock subjects/scenarios
 - more focal length subjects/scenarios
-- aperture and shutter speed tests
-- camera body tests
+- more aperture subjects/scenarios
+- add shutter speed tests
+- add camera body tests
