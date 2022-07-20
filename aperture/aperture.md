@@ -5,7 +5,7 @@ Aperture values likes `f1.4`, `f2.8`, etc. tend to not have much of an influence
 <details><summary>Samoyed posing</summary>
 <p>
 
-`samoyed posing, [aperture] —sameseed 1 —uplight`  
+`samoyed posing, [aperture] —-sameseed 1`  
 
 **f1.4**<br>
 ![f1.4](/aperture/images/samoyed_posing_f1_4.png)
