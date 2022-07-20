@@ -1,5 +1,5 @@
 # Film Stocks
-In general, using any film stock tends to add lots of saturation, contrast, vignette, and grain. For a less-intense result, try a weighted solution (`...[Kodak Gold 200]::0.75...`). While certain popular film stocks may produce expected results, not all films act as expected in Midjourney, probably due to insufficient source material on the internet and/or in the dataset.
+In general, using any film stock tends to add lots of saturation, contrast, vignette, and grain. For a less-intense result, try a [weighted solution](/weightsnphrasing/weightsnphrasing.md). While certain popular film stocks may produce expected results, not all films act as expected in Midjourney, probably due to insufficient source material on the internet and/or in the dataset.
 
 `landscape, [film stock], --aspect 3:2 --sameseed 1`
 
