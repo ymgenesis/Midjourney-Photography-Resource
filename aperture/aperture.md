@@ -1,6 +1,6 @@
 # Aperture
 
-Aperture values likes `f1.4`, `f2.8`, etc. tend to not have much of an influence on depth of field, but small differences can be observed. This is likely due to the source material not having a clear and consistent set of aperture examples across subject matter. Your mileage may vary, and hopefully this will get better in the future.
+Aperture values likes `f1.4`, `f2.8`, etc. tend to not have much of an influence on depth of field, but small differences can be observed. Mention of the word `aperture` seems to add more bokeh/blur, no matter the specified f-stop. This is likely due to the source material not having a clear and consistent set of aperture examples across subject matter. Your mileage may vary, and hopefully this will get better in the future.
 
 <details><summary>Samoyed posing</summary>
 <p>
