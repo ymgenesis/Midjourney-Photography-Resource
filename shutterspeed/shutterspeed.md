@@ -39,3 +39,5 @@ In general, Midjourney doesn't handle shutter speeds well. Mention of the word `
 
 </p>
 </details>
+
+[Main Menu](https://github.com/ymgenesis/Midjourney-Photography-Resource)
