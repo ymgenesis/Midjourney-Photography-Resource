@@ -39,3 +39,5 @@ Aperture values likes `f1.4`, `f2.8`, etc. tend to not have much of an influence
 
 </p>
 </details>
+
+[Main Menu](https://github.com/ymgenesis/Midjourney-Photography-Resource)
