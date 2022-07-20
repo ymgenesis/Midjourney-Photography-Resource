@@ -4,6 +4,7 @@ An unofficial and non-exhaustive resource testing and comparing various photogra
 
 [Film Stocks](filmstocks/filmstocks.md)<br>
 [Focal Lengths](focallengths/focallengths.md)<br>
+[Weights & Phrasing](weightsnphrasing/weightsnphrasing.md)<br>
 [Tips & Tricks](tipsntricks/tipsntricks.md)<br>
 
 <hr>
