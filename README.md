@@ -3,6 +3,7 @@
 An unofficial and non-exhaustive resource testing and comparing various photography settings, film stocks, and terms in Midjourney.
 
 [Film Stocks](filmstocks/filmstocks.md)<br>
+[Camera Bodies](camerabodies/camerabodies.md)<br>
 [Focal Lengths](focallengths/focallengths.md)<br>
 [Aperture](aperture/aperture.md)<br>
 [Shutter Speed](shutterspeed/shutterspeed.md)<br>
@@ -12,7 +13,7 @@ An unofficial and non-exhaustive resource testing and comparing various photogra
 <hr>
 
 Future additions:
-- more film stock subjects/scenarios
+- more film stocks & subjects/scenarios
+- more camera bodies & subjects/scenarios
 - more focal length subjects/scenarios
 - more aperture subjects/scenarios
-- add camera body tests
