@@ -1,5 +1,6 @@
 # Tips & Tricks
 
+- Photorealism is a painting style. Photographers wouldn't label their own photographs as photorealistic. If you want something resembling a photograph, consider just specifying a camera body, film stock, or simply `photograph` or `35mm photograph`.
 - 35mm focal length generally produces the best focal length results
 - weight film stock to lessen over-saturation (see [weights & phrasing](/weightsnphrasing/weightsnphrasing.md) for examples).
 - Language like `wide shot`, `portrait`, or `zoomed in` can often achieve similar or better results than using focal lengths
@@ -11,5 +12,6 @@
 - Pick the correct aspect ratio for your image (2:3/vertical rectangle good for portraits, 3:2/horizontal rectangle good for landscapes)
 - B&W film stocks often produce the most cohesive/realistic results
 - Any words you use in your prompt influence your image. For example, `...zoom zoom, 14mm...`. Even though you might be trying to describe a fast car, MJ might take `zoom` to mean a long focal length, effectively cancelling out your `14mm` instruction. 
+- Couple various camera bodies and film stocks for more variation when specifying a camera body. For example, `hooded figure cemetery, Leica A, Kodak Portra 800 --ar 2:3`  
 
 [Main Menu](https://github.com/ymgenesis/Midjourney-Photography-Resource)
