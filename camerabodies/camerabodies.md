@@ -8,39 +8,42 @@ Specifying a camera body won't emulate one piece of technology, as different pho
 <p>
 
 **Canon 7s**
-![Canon 7s](/camerabodies/images/hidden_figure_cemetery_Canon_7s.png)
+![Canon 7s](/camerabodies/images/hooded_figure_cemetery_Canon_7s.png)
 
 **Canon AE-1**
-![Canon AE-1](/camerabodies/images/hidden_figure_cemetery_Canon_AE-1.png)
+![Canon AE-1](/camerabodies/images/hooded_figure_cemetery_Canon_AE-1.png)
 
 **Hasselblad 500cm**
-![Hasselblad 500cm](/camerabodies/images/hidden_figure_cemetery_Hasselblad_500cm.png)
+![Hasselblad 500cm](/camerabodies/images/hooded_figure_cemetery_Hasselblad_500cm.png)
 
 **Leica A**
-![Leica A](/camerabodies/images/hidden_figure_cemetery_Leica_A.png)
+![Leica A](/camerabodies/images/hooded_figure_cemetery_Leica_A.png)
 
 **Leica M3**
-![Leica M3](/camerabodies/images/hidden_figure_cemetery_Leica_M3.png)
+![Leica M3](/camerabodies/images/hooded_figure_cemetery_Leica_M3.png)
 
 **Leica M6**
-![Leica M6](/camerabodies/images/hidden_figure_cemetery_Leica_M6.png)
+![Leica M6](/camerabodies/images/hooded_figure_cemetery_Leica_M6.png)
 
 **Mamiya RZ67**
-![Mamiya RZ67](/camerabodies/images/hidden_figure_cemetery_Mamiya_RZ67.png)
+![Mamiya RZ67](/camerabodies/images/hooded_figure_cemetery_Mamiya_RZ67.png)
 
 **Minolta X-700**
-![Minolta X-700](/camerabodies/images/hidden_figure_cemetery_Minolta_X-700.png)
+![Minolta X-700](/camerabodies/images/hooded_figure_cemetery_Minolta_X-700.png)
 
 **Nikon F2**
-![Nikon F2](/camerabodies/images/hidden_figure_cemetery_Nikon_F2.png)
+![Nikon F2](/camerabodies/images/hooded_figure_cemetery_Nikon_F2.png)
 
 **Olympus XA**
-![Olympus XA](/camerabodies/images/hidden_figure_cemetery_Olympus_XA.png)
+![Olympus XA](/camerabodies/images/hooded_figure_cemetery_Olympus_XA.png)
 
 **Rolleiflex 3.5F**
-![Rolleiflex 3.5F](/camerabodies/images/hidden_figure_cemetery_Rolleiflex_3_5F.png)
+![Rolleiflex 3.5F](/camerabodies/images/hooded_figure_cemetery_Rolleiflex_3_5F.png)
 
 **Yashica T4**
-![Yashica T4](/camerabodies/images/hidden_figure_cemetery_Yashica_T4.png)
+![Yashica T4](/camerabodies/images/hooded_figure_cemetery_Yashica_T4.png)
 
 </p>
+</details>
+
+[Main Menu](https://github.com/ymgenesis/Midjourney-Photography-Resource)
