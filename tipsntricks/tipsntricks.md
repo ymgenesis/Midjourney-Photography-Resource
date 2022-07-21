@@ -10,5 +10,6 @@
 - Be sure to use film stocks, focal lengths, and other terms alongside other prompt language; these terms augment your prompts.
 - Pick the correct aspect ratio for your image (2:3/vertical rectangle good for portraits, 3:2/horizontal rectangle good for landscapes)
 - B&W film stocks often produce the most cohesive/realistic results
+- Any words you use in your prompt influence your image. For example, `...zoom zoom, 14mm...`. Even though you might be trying to describe a fast car, MJ might take `zoom` to mean a long focal length, effectively cancelling out your `14mm` instruction. 
 
 [Main Menu](https://github.com/ymgenesis/Midjourney-Photography-Resource)
