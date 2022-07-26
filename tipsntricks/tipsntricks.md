@@ -12,6 +12,6 @@
 - Pick the correct aspect ratio for your image (2:3/vertical rectangle good for portraits, 3:2/horizontal rectangle good for landscapes)
 - B&W film stocks often produce the most cohesive/realistic results
 - Any words you use in your prompt influence your image. For example, `...zoom zoom, 14mm...`. Even though you might be trying to describe a fast car, MJ might take `zoom` to mean a long focal length, effectively cancelling out your `14mm` instruction. 
-- Couple various camera bodies and film stocks for more variation when specifying a camera body. For example, `hooded figure cemetery, Leica A, Kodak Portra 800 --ar 2:3`  
+- Couple various camera bodies and film stocks for more variation when specifying a camera body. For example, `marble greek bust, Mamiya RZ67, Fomapan 400 —ar 3:2 —sameseed 1 —uplight`:<br>![doescomputers_marble_greek_bust_Mamiya_RZ67_Fomapan_400_884b328a-6e59-416e-9c9c-0912bec00f22](https://user-images.githubusercontent.com/25252829/181086977-1ecb3442-c6a8-4cf9-a20d-2972f90de243.png)
 
 [Main Menu](https://github.com/ymgenesis/Midjourney-Photography-Resource)
