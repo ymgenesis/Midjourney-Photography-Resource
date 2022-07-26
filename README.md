@@ -1,6 +1,7 @@
 # Midjourney Photography Resource
 
 An unofficial and non-exhaustive resource testing and comparing various photography settings, film stocks, and terms in Midjourney.
+NOTE: Unless otherwise stated, all tests were completed prior to release of Midjourney's version 3 algorithm (July 25 2022). 
 
 [Film Stocks](filmstocks/filmstocks.md)<br>
 [Camera Bodies](camerabodies/camerabodies.md)<br>
@@ -17,3 +18,4 @@ Future additions:
 - more camera bodies & subjects/scenarios
 - more focal length subjects/scenarios
 - more aperture subjects/scenarios
+- add an additional replicate test for each subject/scenario using MJ's new version 3 algorithm released on July 25 2022
