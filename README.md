@@ -8,6 +8,7 @@ NOTE: Unless otherwise stated, all tests were completed prior to release of Midj
 [Focal Lengths](focallengths/focallengths.md)<br>
 [Aperture](aperture/aperture.md)<br>
 [Shutter Speed](shutterspeed/shutterspeed.md)<br>
+[Stylize & Quality](/stylizenquality/stylizenguality.md)<br>
 [Weights & Phrasing](weightsnphrasing/weightsnphrasing.md)<br>
 [Tips & Tricks](tipsntricks/tipsntricks.md)<br>
 
@@ -18,4 +19,4 @@ Future additions:
 - more camera bodies & subjects/scenarios
 - more focal length subjects/scenarios
 - more aperture subjects/scenarios
-- add a Quliaty & Stylize section (MJ's new version 3 algorithm released on July 25 2022) showing various film stock and camera body term progressions along a `--q` and `--s` scale.
+- more stylize & quality subjects/scenarios
