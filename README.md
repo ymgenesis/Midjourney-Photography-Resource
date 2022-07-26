@@ -8,7 +8,7 @@ NOTE: Unless otherwise stated, all tests were completed prior to release of Midj
 [Focal Lengths](focallengths/focallengths.md)<br>
 [Aperture](aperture/aperture.md)<br>
 [Shutter Speed](shutterspeed/shutterspeed.md)<br>
-[Stylize & Quality](/stylizenquality/stylizenguality.md)<br>
+[Stylize & Quality](/stylizenquality/stylizenquality.md)<br>
 [Weights & Phrasing](weightsnphrasing/weightsnphrasing.md)<br>
 [Tips & Tricks](tipsntricks/tipsntricks.md)<br>
 
