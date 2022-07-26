@@ -18,4 +18,4 @@ Future additions:
 - more camera bodies & subjects/scenarios
 - more focal length subjects/scenarios
 - more aperture subjects/scenarios
-- add an additional replicate test for each subject/scenario using MJ's new version 3 algorithm released on July 25 2022
+- add a Quliaty & Stylize section (MJ's new version 3 algorithm released on July 25 2022) showing various film stock and camera body term progressions along a `--q` and `--s` scale.
